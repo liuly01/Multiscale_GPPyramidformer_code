@@ -1,8 +1,8 @@
 # GPPyramid Transformer
 
-This repository provides the core reference implementation of **GPPyramid Transformer**, a multi-scale temporal deep learning framework for daily gross primary productivity (GPP) estimation.
+This repository contains the reference implementation of GPPyramid Transformer, a scale-aware temporal model for estimating daily gross primary productivity (GPP).
 
-The code is intended to document the key model components described in the manuscript, including pyramidal cross-scale attention and Feature-wise Scale Adaptive Fusion (FSAF).
+The implementation focuses on the main components described in the accompanying manuscript, particularly pyramidal cross-scale attention and Feature-wise Scale Adaptive Fusion (FSAF). 
 
 ## Repository structure
 
